@@ -1,6 +1,6 @@
 # Linux installations
 apt update
-apt install default-jdk
+apt install -y default-jdk
 
 # Python libraries
 pip install pyspark
